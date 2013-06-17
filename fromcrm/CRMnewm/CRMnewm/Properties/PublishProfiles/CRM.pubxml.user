@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется в процессе публикации или упаковки вашего веб-проекта. Вы можете настроить поведение процесса,
+изменив этот файл MSBuild. Дополнительные сведения см. по адресу http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPJuNfpVqm0SgKEHkiTouHwAAAAACAAAAAAAQZgAAAAEAACAAAADUV0rNWp/AZNqUVJ3iTenLtuIcBHVld6ZdnFhYeKYddgAAAAAOgAAAAAIAACAAAAD4pXDw4kuq/12iSgWQ2sawaXgELH+0lsCHowbecm18kSAAAACXxu41KBbCWMyk/x1L1Kgg08xzyhR7DGKYHK/wsTVJhkAAAABfTQUR6/xvssXwLVBO5wEDW4kR7kbpCcySKbPWu24HUdCKXahe45o5Lnj5C35sZdz/waHmLV0c9aXeLHXxc7B6</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Database1.mdf">
+      <publishTime>05/24/2013 12:20:29</publishTime>
+    </File>
+    <File Include="App_Data/Database1_log.ldf">
+      <publishTime>05/24/2013 12:20:29</publishTime>
+    </File>
+    <File Include="App_Data/Database2.mdf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Data/Database2_log.ldf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/CRMnewm.dll">
+      <publishTime>05/24/2013 12:20:25</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/LinqToTwitter.dll">
+      <publishTime>05/12/2013 23:20:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.WebPages.OAuth.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/EntityFramework.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Web.WebPages.OAuth.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Net.Http.Formatting.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Helpers.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Http.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Http.WebHost.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Mvc.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Optimization.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Razor.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/WebMatrix.Data.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/ru/WebMatrix.WebData.resources.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="Content/chosen-sprite.png">
+      <publishTime>05/18/2013 02:28:43</publishTime>
+    </File>
+    <File Include="Content/chosen.css">
+      <publishTime>05/18/2013 02:28:43</publishTime>
+    </File>
+    <File Include="Content/images/img01.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img02.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img03.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img04.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img05.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img06.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img07.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img08.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img09.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img10.gif">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img11.gif">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img12.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/images/img15.jpg">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/jquery-ui-timepicker-addon.css">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/jquery-ui.css">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>05/12/2013 22:20:24</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/accent.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/bullet.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/heroAccent.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList0.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList1.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList2.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList3.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList4.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList5.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList6.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList7.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList8.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Images/orderedList9.png">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Model1.Context.tt">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Model1.edmx.diagram">
+      <publishTime>05/13/2013 01:29:48</publishTime>
+    </File>
+    <File Include="Model1.edmx.sql">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Model1.tt">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Model2.edmx.sql">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Model3memAndTask.edmx.sql">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/12/2013 23:20:34</publishTime>
+    </File>
+    <File Include="Scripts/chosen.jquery.js">
+      <publishTime>05/18/2013 02:27:42</publishTime>
+    </File>
+    <File Include="Scripts/chosen.jquery.min.js">
+      <publishTime>05/18/2013 02:27:42</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.2.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.2.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.20.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.20.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-timepicker-addon.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/knockout-2.1.0.debug.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/knockout-2.1.0.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.5.3.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>05/13/2013 00:15:40</publishTime>
+    </File>
+    <File Include="Views/Account/Manage.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/_ChangePasswordPartial.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/_RemoveExternalLoginsPartial.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Account/_SetPasswordPartial.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Contacts/Create.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Contacts/Delete.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Contacts/Details.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Contacts/Edit.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Contacts/Index.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Default1/Create.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Default1/Delete.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Default1/Details.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Default1/Edit.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Default1/Index.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Home/Contacts.cshtml">
+      <publishTime>05/18/2013 15:46:28</publishTime>
+    </File>
+    <File Include="Views/Home/DropDLIst.cshtml">
+      <publishTime>05/12/2013 23:48:02</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/13/2013 01:57:39</publishTime>
+    </File>
+    <File Include="Views/Home/IndexListAcc.cshtml">
+      <publishTime>05/24/2013 12:14:34</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/18/2013 16:36:09</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/TAsks/Create.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/TAsks/Delete.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/TAsks/Details.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/TAsks/Edit.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/TAsks/Index.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>05/12/2013 22:20:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/20/2013 23:34:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

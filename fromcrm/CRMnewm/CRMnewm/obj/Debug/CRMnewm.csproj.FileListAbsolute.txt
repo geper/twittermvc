@@ -1,0 +1,253 @@
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\CRMnewm.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\CRMnewm.pdb
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Http.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\WebMatrix.Data.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\WebMatrix.WebData.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Http.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\WebMatrix.Data.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\WebMatrix.WebData.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\obj\Debug\CRMnewm.dll
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\obj\Debug\CRMnewm.pdb
+C:\Users\Alex\Desktop\Новая папка\CRMnewm\CRMnewm\obj\Debug\CRMnewm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\CRMnewm.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\CRMnewm.pdb
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebGrease.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.Data.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.WebData.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.Data.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.WebData.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.dll
+C:\Users\Alex\Desktop\w\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.pdb
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\CRMnewm.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\CRMnewm.pdb
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebGrease.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.Data.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.WebData.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.Data.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\WebMatrix.WebData.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.dll
+C:\Users\Alex\Desktop\twitter mvc\Новая папка\easy-crm-mvc\CRMnewm\CRMnewm\obj\Debug\CRMnewm.pdb
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\CRMnewm.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\CRMnewm.pdb
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\LinqToTwitter.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Http.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\WebGrease.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\WebMatrix.Data.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\WebMatrix.WebData.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Http.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Http.WebHost.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\WebMatrix.Data.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\WebMatrix.WebData.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\obj\Debug\CRMnewm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\obj\Debug\CRMnewm.dll
+C:\Users\Alex\Desktop\twitter mvc\Repo\fromcrm\CRMnewm\CRMnewm\obj\Debug\CRMnewm.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="RegistratioNabor">
+      <EntityTypeMapping TypeName="Database1Model.RegistratioNabor">
+        <MappingFragment StoreEntitySet="RegistratioNabor">
+          <ScalarProperty Name="Registration_id" ColumnName="Registration_id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="E_mail" ColumnName="E_mail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Credential">
+      <EntityTypeMapping TypeName="Database1Model.Credential">
+        <MappingFragment StoreEntitySet="Credential">
+          <ScalarProperty Name="UserIdProfile" ColumnName="UserIdProfile" />
+          <ScalarProperty Name="OAuthToken" ColumnName="OAuthToken" />
+          <ScalarProperty Name="AccessToken" ColumnName="AccessToken" />
+          <ScalarProperty Name="ConsumerSecret" ColumnName="ConsumerSecret" />
+          <ScalarProperty Name="ConsumerKey" ColumnName="ConsumerKey" />
+          <ScalarProperty Name="UserTwitterId" ColumnName="UserTwitterId" />
+          <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

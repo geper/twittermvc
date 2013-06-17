@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+    @Scripts.Render("~/bundles/modernizr")
+     @Scripts.Render("~/bundles/jquery")
+    <script type="text/javascript" src="~/Scripts/jquery-1.8.3.js"></script>
+  
+    <script type="text/javascript" src="~/Scripts/jquery-ui-1.10.2.js"></script>
+      <script type="text/javascript" src="~/Scripts/jquery-ui-timepicker-addon.js"></script>
+    <link href="~/Content/jquery-ui-timepicker-addon.css" rel="stylesheet" />
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#Begin_Tasks").datetimepicker({
+                dateFormat: "dd mm yy",
+                showSecond: true,
+                timeFormat: 'HH:mm:ss',
+                stepHour: 2,
+                stepMinute: 10,
+                stepSecond: 10
+            });
+            $("#Limit_Tasks").datetimepicker({
+                dateFormat: "dd mm yy",
+                showSecond: true,
+                timeFormat: 'HH:mm:ss',
+                stepHour: 2,
+                stepMinute: 10,
+                stepSecond: 10
+            });
+            $("#End_Tasks").datetimepicker({
+                dateFormat: "dd mm yy",
+                showSecond: true,
+                timeFormat: 'HH:mm:ss',
+                stepHour: 2,
+                stepMinute: 10,
+                stepSecond: 10
+            });
+            //$("#menu li").on("click", function (event) {
+
+            //    $("#menu li.current_page_item").removeClass("current_page_item");
+            //    alert($(this).text());
+            //    $(this).addClass("current_page_item");
+               
+
+
+            //})
+            
+        });
+
+</script>
+</head>
+<body>
+    <div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1>PIT</h1>
+          
+			
+		</div>
+	</div>
+       
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			
+			   <li  >@Html.ActionLink("Home", "Index", "Home")</li>
+            @if (Roles.IsUserInRole("DefUser"))
+            {
+               <li  >@Html.ActionLink("Аккаунты", "IndexListAcc", "Home")</li>
+               <li>@Html.ActionLink("Пост", "DropDLIst", "Home")</li>
+            <li>@Html.ActionLink("Контакты", "Contacts", "Home")</li>
+                
+            }
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+         <div class="float-right">
+        
+                        @Html.Partial("_LoginPartial")
+          
+            </div>
+		<div id="content">
+			  @RenderBody()
+           
+			<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer-content">
+	<div class="column1">
+		<h2>Post images to twitter</h2>
+		</div>
+</div>
+<div id="footer">
+	<p> (c) 2013 CRM.com. </p>
+</div>
+  
+</body>
+</html>

@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Домашняя страница";
+}
+
+
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+
+<p>
+        @Html.ActionLink("Drop down list", "DropDLIst", "Home")
+    <br />
+
+    @Html.ActionLink("Добавить аккаунт твиттер", "CreateAccaount", "Home")
+     <br />
+     @Html.ActionLink(" PeformQuery ", "PeformQuery", "Home")
+
+    @Html.ActionLink("Unfollow ", "Unfollow", "Home")
+
+     @Html.ActionLink("RateLimite ", "RateLimite", "Home")
+</p>
+
+  <ul>  
+@foreach (var item in Model) {    
+   
+        <li>@item.Id @item.ScreenName @item.UserID</li>
+  
+}
+
+
+  </ul>  
+
+<table border="1" cellspacing="2" cellpadding="2" id="contentTble">
+
+<tr class="header">
+        <td> ID</td>
+        <td> ScreenName</td>
+        <td>UserID</td>
+
+        </tr>  
+    
+        @foreach (var item in Model) {    
+   
+  
+  <tr>  
+
+        <td>@item.Id</td>
+        <td>@item.ScreenName</td>
+        <td>@item.UserID</td>
+          </tr>
+        }
+
+
+
+
+</table>
+
+
+
+@using (Html.BeginForm("About", "Home", FormMethod.Get))
+{
+
+    <fieldset>
+
+            Movie Type
+
+            @Html.DropDownList("UserID")
+
+        <p>
+
+            <input type="submit" value="Submit" />
+
+        </p>
+
+    </fieldset>
+
+} 
+

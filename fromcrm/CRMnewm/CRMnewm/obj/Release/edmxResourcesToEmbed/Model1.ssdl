@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Database1Model" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Хранилище Database1ModelContainer">
+    <EntitySet Name="Credential" EntityType="Хранилище Database1Model.Credential" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RegistratioNabor" EntityType="Хранилище Database1Model.RegistratioNabor" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Credential">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ScreenName" Type="nvarchar(max)" />
+    <Property Name="UserTwitterId" Type="nvarchar(max)" />
+    <Property Name="ConsumerKey" Type="nvarchar(max)" />
+    <Property Name="ConsumerSecret" Type="nvarchar(max)" />
+    <Property Name="AccessToken" Type="nvarchar(max)" />
+    <Property Name="OAuthToken" Type="nvarchar(max)" />
+    <Property Name="UserIdProfile" Type="int" />
+  </EntityType>
+  <EntityType Name="RegistratioNabor">
+    <Key>
+      <PropertyRef Name="Registration_id" />
+    </Key>
+    <Property Name="Registration_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="E_mail" Type="nvarchar(max)" />
+  </EntityType>
+</Schema>

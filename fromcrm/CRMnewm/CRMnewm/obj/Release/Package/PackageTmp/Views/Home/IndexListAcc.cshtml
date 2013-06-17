@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "IndexListAcc";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+               
+           <p>   @ViewBag.Message</p>
+
+
+@Html.ActionLink("Добавить аккаунт твиттер", "CreateAccaount", "Home")
+
+  <ul>  
+@foreach (var item in Model) {    
+   
+        <li>@item.Id @item.ScreenName @item.UserTwitterId</li>
+  
+}
+
+
+  </ul>  
+
+<table border="1" cellspacing="2" cellpadding="2" id="contentTble">
+
+<tr class="header">
+        <td> ID</td>
+        <td> ScreenName</td>
+        <td>UserID</td>
+
+        </tr>  
+    
+        @foreach (var item in Model) {    
+   
+  
+  <tr>  
+
+        <td>@item.Id</td>
+        <td>@item.ScreenName</td>
+        <td>@item.UserTwitterId</td>
+          </tr>
+        }
+
+
+
+
+</table>
+
+
+
+@using (Html.BeginForm("About", "Home", FormMethod.Get))
+{
+
+    <fieldset>
+
+            Movie Type
+
+            @Html.DropDownList("UserID")
+
+        <p>
+
+            <input type="submit" value="Delete Account" />
+
+        </p>
+
+    </fieldset>
+
+} 
+

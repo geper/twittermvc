@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Хранилище Database1Model" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="Хранилище Database1ModelContainer">
+          <EntitySet Name="Credential" EntityType="Хранилище Database1Model.Credential" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="RegistratioNabor" EntityType="Хранилище Database1Model.RegistratioNabor" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Credential">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ScreenName" Type="nvarchar(max)" />
+          <Property Name="UserTwitterId" Type="nvarchar(max)" />
+          <Property Name="ConsumerKey" Type="nvarchar(max)" />
+          <Property Name="ConsumerSecret" Type="nvarchar(max)" />
+          <Property Name="AccessToken" Type="nvarchar(max)" />
+          <Property Name="OAuthToken" Type="nvarchar(max)" />
+          <Property Name="UserIdProfile" Type="int" />
+        </EntityType>
+        <EntityType Name="RegistratioNabor">
+          <Key>
+            <PropertyRef Name="Registration_id" />
+          </Key>
+          <Property Name="Registration_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="nvarchar(max)" />
+          <Property Name="E_mail" Type="nvarchar(max)" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Database1Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="Database1Entities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="RegistratioNabor" EntityType="Database1Model.RegistratioNabor" />
+          <EntitySet Name="Credential" EntityType="Database1Model.Credential" />
+        </EntityContainer>
+        <EntityType Name="RegistratioNabor">
+          <Key>
+            <PropertyRef Name="Registration_id" />
+          </Key>
+          <Property Name="Registration_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" Type="Int32" />
+          <Property Name="Name" MaxLength="Max" FixedLength="false" Unicode="true" Type="String" />
+          <Property Name="E_mail" MaxLength="Max" FixedLength="false" Unicode="true" Type="String" />
+        </EntityType>
+        <EntityType Name="Credential">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="ScreenName" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="UserTwitterId" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="ConsumerKey" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="ConsumerSecret" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="AccessToken" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="OAuthToken" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Type="Int32" Name="UserIdProfile" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="Database1Entities">
+          <EntitySetMapping Name="RegistratioNabor">
+            <EntityTypeMapping TypeName="Database1Model.RegistratioNabor">
+              <MappingFragment StoreEntitySet="RegistratioNabor">
+                <ScalarProperty Name="Registration_id" ColumnName="Registration_id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="E_mail" ColumnName="E_mail" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Credential">
+            <EntityTypeMapping TypeName="Database1Model.Credential">
+              <MappingFragment StoreEntitySet="Credential">
+                <ScalarProperty Name="UserIdProfile" ColumnName="UserIdProfile" />
+                <ScalarProperty Name="OAuthToken" ColumnName="OAuthToken" />
+                <ScalarProperty Name="AccessToken" ColumnName="AccessToken" />
+                <ScalarProperty Name="ConsumerSecret" ColumnName="ConsumerSecret" />
+                <ScalarProperty Name="ConsumerKey" ColumnName="ConsumerKey" />
+                <ScalarProperty Name="UserTwitterId" ColumnName="UserTwitterId" />
+                <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

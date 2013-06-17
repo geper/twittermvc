@@ -1,0 +1,38 @@
+﻿@using MvcAppTwitter.Models;
+@model List<ResultsViewModel>
+
+@{
+    ViewBag.Title = "Results";
+}
+
+<div class="lineup">
+    <h2>
+        Results</h2>
+    <table>
+        <thead title="LinqToTwitter">
+        </thead>
+        <tr>
+            <th>
+                Screen Name
+            </th>
+            <th>
+                Direct Message
+            </th>
+        </tr>
+        @foreach (var directMessage in @Model)
+        {
+            <tr>
+                <td title="Screen Name">
+                    @directMessage.ScreenName
+                </td>
+                <td title="Direct Message">
+                    @directMessage.DirectMessage
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+
+    
+
