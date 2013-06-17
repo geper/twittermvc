@@ -1,0 +1,15 @@
+E:\Учеба\программки\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Учеба\программки\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Учеба\программки\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Учеба\программки\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Учеба\программки\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ConsoleApplication1ComLine\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1ComLine\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1ComLine\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ConsoleApplication1ComLine\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1ComLine\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
